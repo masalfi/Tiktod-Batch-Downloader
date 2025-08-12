@@ -1,0 +1,53 @@
+# Core Dependencies for Video Tools Suite
+yt-dlp>=2024.12.13
+requests>=2.31.0
+urllib3>=1.26.0
+certifi>=2023.0.0
+charset-normalizer>=3.0.0
+idna>=3.4
+
+# Video Processing
+ffmpeg-python>=0.2.0
+mutagen>=1.47.0
+
+# Compression and Encoding
+brotli>=1.0.9
+pycryptodomex>=3.19.0
+
+# GUI Framework
+# tkinter is built-in with Python
+
+# Utilities
+pathlib2>=2.3.7; python_version<"3.4"
+tqdm>=4.66.0
+more-itertools>=10.0.0
+regex>=2023.0.0
+
+# Network and HTTP
+websockets>=12.0
+aiohttp>=3.9.0
+
+# Cryptography and Security
+cryptography>=41.0.0
+
+# Date and Time
+python-dateutil>=2.8.0
+
+# Configuration and Parsing
+configparser>=5.3.0
+
+# Async Processing
+asyncio-throttle>=1.0.0
+
+# JSON and Data Processing
+jsonschema>=4.20.0
+
+# Compatibility
+typing-extensions>=4.8.0
+
+# Optional: Better error handling
+colorama>=0.4.6
+
+# Build tools (for development)
+wheel>=0.42.0
+setuptools>=68.0.0 
