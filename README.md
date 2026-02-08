@@ -1,4 +1,4 @@
-Pertama nih Bang Install dulu Pythonnya
+Pertama nih Bang Install dulu Pythonnya dan Install juga Requirements.txt
 Terus jalanin setup.py
 
 MacOS
